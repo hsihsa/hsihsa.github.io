@@ -9,4 +9,4 @@ I have extensive technical and functional consulting experience. Specializing in
 
 I work mostly on Enterprise software but have keen interest in Open source software. I spend some of my free time playing with Python, Flask, Javascript & ReactJs. Majority of the free time is spend with my Kids :-).
 
-I blog here
+I blog [here](../blog)

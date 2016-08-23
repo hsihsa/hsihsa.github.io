@@ -19,6 +19,7 @@ MAIN_MENU = True
 MENUITEMS = (('Blog', '/blog'),)
 
 DEFAULT_LANG = u'en'
+GOOGLE_ANALYTICS = 'UA-83037108-1'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
